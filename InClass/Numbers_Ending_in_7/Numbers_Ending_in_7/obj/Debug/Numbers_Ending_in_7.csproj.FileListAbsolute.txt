@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Numbers_Ending_in_7\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Numbers_Ending_in_7\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Numbers_Ending_in_7\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Numbers_Ending_in_7\Numbers_Ending_in_7\obj\Debug\Numbers_Ending_in_7.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Numbers_Ending_in_7\Numbers_Ending_in_7\obj\Debug\Numbers_Ending_in_7.pdb

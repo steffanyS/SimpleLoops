@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Sum_Numbers\Sum_Numbers\bin\Debug\Sum_Numbers.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Sum_Numbers\Sum_Numbers\bin\Debug\Sum_Numbers.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Sum_Numbers\Sum_Numbers\bin\Debug\Sum_Numbers.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Sum_Numbers\Sum_Numbers\obj\Debug\Sum_Numbers.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Sum_Numbers\Sum_Numbers\obj\Debug\Sum_Numbers.pdb

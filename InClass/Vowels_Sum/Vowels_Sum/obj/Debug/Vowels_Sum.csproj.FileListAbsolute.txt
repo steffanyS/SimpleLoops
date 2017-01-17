@@ -1,0 +1,6 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\bin\Debug\Vowels_Sum.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\bin\Debug\Vowels_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\bin\Debug\Vowels_Sum.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\obj\Debug\Vowels_Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\obj\Debug\Vowels_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Vowels_Sum\Vowels_Sum\obj\Debug\Vowels_Sum.pdb

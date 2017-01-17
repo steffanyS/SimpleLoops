@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Half_Sum_Element\Half_Sum_Element\bin\Debug\Half_Sum_Element.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Half_Sum_Element\Half_Sum_Element\bin\Debug\Half_Sum_Element.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Half_Sum_Element\Half_Sum_Element\bin\Debug\Half_Sum_Element.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Half_Sum_Element\Half_Sum_Element\obj\Debug\Half_Sum_Element.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Half_Sum_Element\Half_Sum_Element\obj\Debug\Half_Sum_Element.pdb

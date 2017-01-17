@@ -1,0 +1,10 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\bin\Debug\Turtle_Graphics.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\bin\Debug\Turtle_Graphics.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\bin\Debug\Turtle_Graphics.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\bin\Debug\Nakov.TurtleGraphics.dll
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.csprojResolveAssemblyReference.cache
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.Form1.resources
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.Properties.Resources.resources
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.csproj.GenerateResource.Cache
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Turtle_Graphics\Turtle_Graphics\obj\Debug\Turtle_Graphics.pdb

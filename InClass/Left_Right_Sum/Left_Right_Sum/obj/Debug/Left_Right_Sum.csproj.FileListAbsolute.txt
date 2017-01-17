@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Left_Right_Sum\Left_Right_Sum\bin\Debug\Left_Right_Sum.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Left_Right_Sum\Left_Right_Sum\bin\Debug\Left_Right_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Left_Right_Sum\Left_Right_Sum\bin\Debug\Left_Right_Sum.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Left_Right_Sum\Left_Right_Sum\obj\Debug\Left_Right_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Left_Right_Sum\Left_Right_Sum\obj\Debug\Left_Right_Sum.pdb

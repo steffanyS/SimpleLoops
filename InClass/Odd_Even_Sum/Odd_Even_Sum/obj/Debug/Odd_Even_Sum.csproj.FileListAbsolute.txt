@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Odd_Even_Sum\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Odd_Even_Sum\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Odd_Even_Sum\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Odd_Even_Sum\Odd_Even_Sum\obj\Debug\Odd_Even_Sum.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Odd_Even_Sum\Odd_Even_Sum\obj\Debug\Odd_Even_Sum.pdb

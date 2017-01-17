@@ -1,0 +1,5 @@
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Max_Number\Max_Number\bin\Debug\Max_Number.exe.config
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Max_Number\Max_Number\bin\Debug\Max_Number.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Max_Number\Max_Number\bin\Debug\Max_Number.pdb
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Max_Number\Max_Number\obj\Debug\Max_Number.exe
+E:\SoftUni\ProgrammingBasics\05.Simple Loops\InClass\Max_Number\Max_Number\obj\Debug\Max_Number.pdb
